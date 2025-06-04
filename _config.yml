@@ -1,0 +1,13 @@
+# _config.yml
+title: "Ali Maqsood Ahmed"
+description: "Software Engineer · Web & Mobile Developer · Data Scientist"
+# The baseurl is empty for a user/organization site
+baseurl: ""
+url: "https://alimaqsoodahmed.github.io"
+
+theme: minima
+
+# Optional: any other author/site-wide config
+author:
+  name: "Ali Maqsood Ahmed"
+  email: "malipallandri@gmail.com"
